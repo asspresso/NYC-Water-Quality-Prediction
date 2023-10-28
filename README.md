@@ -7,7 +7,7 @@ This project predicts water quality in New York City's public drinking fountains
 
 <h2>Languages</h2>
 
-- <b>Python</b> 
+- <b>Python via Jupyter Notebook</b> 
 
 <h2>Time</h2>
 
