@@ -11,7 +11,30 @@ This project predicts water quality in New York City's public drinking fountains
 
 <h2>Time</h2>
 
-- <b>Spring 2023</b> 
+- <b>Spring 2023</b>
+
+<h2>Model Performance</h2>
+
+Random Forest: <br/>
+
+![ER DIAGRAM](https://github.com/asspresso/NYC-Water-Quality-Prediction/blob/main/DNN.png)<br/>
+
+DNN: <br/>
+
+![ER DIAGRAM](https://github.com/asspresso/NYC-Water-Quality-Prediction/blob/main/DNN.png)<br/>
+
+RNN: <br/>
+
+![ER DIAGRAM](https://github.com/asspresso/NYC-Water-Quality-Prediction/blob/main/RNN.png)<br/>
+
+LSTM: <br/>
+
+![ER DIAGRAM](https://github.com/asspresso/NYC-Water-Quality-Prediction/blob/main/LSTM.png)<br/>
+
+</p>
+
+
+
 <!--
  ```diff
 - text in red
